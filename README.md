@@ -3,6 +3,7 @@
 
 - 技术探讨+v : lp948630594
 - Chinese
+- 博客地址：https://blog.longpi1.com/
 - ⚡ Go,  Java, Python, ...
 
 
