@@ -6,6 +6,7 @@
 - 博客地址：https://blog.longpi1.com/
 - ⚡ Go, Java, Python, ...
 
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=longpi1)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longpi1&theme=github)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=longpi1)
+
