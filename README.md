@@ -1,7 +1,7 @@
 ### Hi👋 欢迎来到我的主页 
 
 
-- 技术探讨+v : keep_trying_2024
+- 技术探讨+v : lpppppp08
 - Chinese
 - 博客地址：https://blog.longpi1.com/
 - ⚡ Go, Java, Python, ...
