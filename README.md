@@ -7,6 +7,7 @@
 - ⚡ Go, Java, Python, ...
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=longpi1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longpi1&theme=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longpi1&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
